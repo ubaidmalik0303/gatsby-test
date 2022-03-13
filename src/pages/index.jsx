@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Layout>
-        <h1>Welcome To Home Page!!!</h1>
+        <h1>Welcome To Home Pages</h1>
       </Layout>
     </>
   )
